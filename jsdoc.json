@@ -8,7 +8,7 @@
         "includePattern": ".+\\.js(doc)?$",
         "excludePattern": "(^|\\/|\\\\)_"
     },
-    "analytics":{"ua":"UA-85700100-1", "domain":"https://sebs.github.io/etherscan-api/"},
+    "analytics":{"ua":"UA-133547857-1", "domain":"https://github.com/t4n6a1ka/etherscan-api/"},
     "plugins": [],
     "templates": {
       "cleverLinks": true,
